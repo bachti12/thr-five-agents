@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "07ae06dc627f5c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf39599a88adda73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68ff2a2bb0b2403b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "תצוגת גרף"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "401ac8e3d7a5a54a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c147457c6376b3fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a489ee03e64696f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "סייר קבצים"
+            }
+          },
+          {
+            "id": "f1e646047236a053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "לחפש"
+            }
+          },
+          {
+            "id": "2c426f7fe27f5fed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb3fe7dba018516b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc71931c4b9cca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c39531dfea76a8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "קישורים נכנסים"
+            }
+          },
+          {
+            "id": "193756cec4107151",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים"
+            }
+          },
+          {
+            "id": "cc5b3af53ff0ed3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "27d0c4df86854423",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "95438ce37e869874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתווה"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:פתח את המחליף המהיר": false,
+      "graph:פתח תצוגת גרף": false,
+      "canvas:צור קנבס חדש": false,
+      "daily-notes:פתח את ההערה של היום": false,
+      "templates:הכנס תבנית": false,
+      "command-palette:פתח את לוח הפקודות": false,
+      "bases:צור בסיס חדש": false
+    }
+  },
+  "active": "68ff2a2bb0b2403b",
+  "lastOpenFiles": [
+    "agents/agent_01.md",
+    "vault/Meeting Notes/ceo-agent-implementation.md",
+    "vault/infrastructure/ceo-agent.md",
+    "vault/infrastructure/agents-root-folder.md",
+    "agents/agent_template.md",
+    "agents/ceo_agent.md",
+    "agents",
+    "CLAUDE.md.tmp.24752.1778069610434",
+    "vault/00-INDEX.md",
+    "vault/00-INDEX.md.tmp.24752.1778069588638",
+    "vault/skills/writing-skills.md",
+    "vault/skills/writing-plans.md",
+    "vault/skills/verification-before-completion.md",
+    "vault/skills/using-superpowers.md",
+    "vault/skills/using-git-worktrees.md",
+    "vault/skills/test-driven-development.md",
+    "vault/skills/systematic-debugging.md",
+    "vault/skills/subagent-driven-development.md",
+    "vault/skills/requesting-code-review.md",
+    "vault/skills/receiving-code-review.md",
+    "vault/skills/finishing-a-development-branch.md",
+    "vault/skills/executing-plans.md",
+    "vault/skills/dispatching-parallel-agents.md",
+    "vault/skills/brainstorming.md",
+    "vault/skills/_index.md",
+    "vault/skills",
+    "vault/infrastructure/obsidian-vault-workflow-skill.md",
+    "vault/infrastructure/superpowers-plugin.md",
+    "vault/infrastructure/commands-folder.md",
+    "vault/infrastructure/skills-folder.md",
+    "vault/infrastructure",
+    "vault/project-config",
+    "vault/Meeting Notes",
+    "vault",
+    "‏‏תיקיה חדשה"
+  ]
+}
